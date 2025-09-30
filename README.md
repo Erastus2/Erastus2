@@ -32,4 +32,4 @@ Tools: Git | GitHub | VS Code | IntelliJ | PyCharm | Figma (for UI/UX design)
 
 📧 Email: erastuskorir05@gmail.com
 
-💼 LinkedIn: linkedin.com/in/erastus-tl.
+💼 LinkedIn: www.linkedin.com/in/erastus-tl.
