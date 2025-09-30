@@ -1,16 +1,35 @@
-### Hi there 👋
+👋 Hi, I’m Erastus
 
-<!--
-**Erastus2/Erastus2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | Web Developer | UX/UI Enthusiast | Lifelong Learner
 
-Here are some ideas to get you started:
+I’m passionate about building scalable applications, designing intuitive interfaces, and applying both Object-Oriented Programming (OOP) and Functional Programming (FP) concepts. I work across backend systems, databases, and full-stack web development, while also focusing on user-centered design for better experiences.
 
-- 🔭 I’m currently working on ...Creating software, websites, applications systems
-- 🌱 I’m currently learning ...React.js
-- 👯 I’m looking to collaborate on ...React.js
-- 🤔 I’m looking for help with ...Java Spring Boot
-- 💬 Ask me about ...Anything related to Tech
-- 📫 How to reach me: ...erastuskorir494@gmail.com
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ...My nose gets warmer when I lie.
--->
+🚀 About Me
+
+ Skilled in Python, Java, and JavaScript
+
+Experience in Web Design & Development (HTML, CSS, JavaScript, Responsive Design)
+
+Interested in UX/UI design principles to create user-friendly applications
+
+ Built OOP-based systems like banking applications
+
+Strong foundation in functional programming principles and software design patterns
+
+Proficient in databases (MySQL, SQL) for data-driven solutions
+
+Constantly learning new technologies and improving design skills
+
+🛠️ Tech Stack
+
+Languages: Python | Java | JavaScript | HTML | CSS
+Databases: MySQL | SQLite
+Concepts: OOP | Functional Programming | Data Structures & Algorithms | Software Design Patterns
+Web: Frontend Development | Responsive Web Design | UX/UI Principles
+Tools: Git | GitHub | VS Code | IntelliJ | PyCharm | Figma (for UI/UX design)
+
+🌍 Connect with Me
+
+📧 Email: erastuskorir05@gmail.com
+
+💼 LinkedIn: linkedin.com/in/erastus-tl.
